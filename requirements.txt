@@ -1,0 +1,10 @@
+W tym pliku będą trzymane wszystkie biblioteki dla stworzonych aplikacji
+
+# Bluetooth Manager:
+bleak==0.22.2
+dbus-next==0.2.3
+PySide6==6.9.2
+qasync==0.28.0
+
+# Other apps
+
